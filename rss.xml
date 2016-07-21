@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mikenseer]]></title>
+        <description><![CDATA[Mikenseer]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 21 Jul 2016 00:41:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Expand your lungs: More energy and reduced stress - Mobius Nutrition]]></title>
+            <description><![CDATA[<article><h1>Expand your lungs: More energy and reduced stress - Mobius Nutrition</h1><p>Expand your lungs: More energy and reduced stress Deep breathing techniques have become a popular way to deal with our constantly connected always online world. With small stresses berating our attention throughout the day, being able to pause for a deep breath or two has been shown to have great benefits mentally and physically.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fb6d35484f5d0db6b94e52220b85069f/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F2000%2F1*R4EfNAcgLc_70owC7LrIJg.jpeg"></article>]]></description>
+            <link>https://medium.com/mobius-nutrition/expand-your-lungs-more-energy-and-reduced-stress-1d4eb3718c64?source=linkShare-20acdf286b78-1469061490</link>
+            <guid isPermaLink="false">cb12f6e1-d799-4d9f-9918-2ed65b848611</guid>
+            <pubDate>Thu, 21 Jul 2016 00:41:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
