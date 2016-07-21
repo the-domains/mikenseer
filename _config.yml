@@ -1,0 +1,14 @@
+layout_spectrum: 0.4892473
+color:
+  saturation: 1
+  lightness: 0.09856631
+  brandStrength: 0.5035842
+  brandColors:
+    - '#FFF9E9'
+    - '#0C0D11'
+    - '#ECD27B'
+    - '#857E62'
+    - '#585544'
+  rhythmicContrast: 0.2437276
+typography_spectrum: 0.6684588
+name: Mikenseer
