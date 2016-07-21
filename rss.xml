@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Mikenseer]]></title>
         <description><![CDATA[Mikenseer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mikenseer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 00:41:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jul 2016 00:41:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mikenseer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Four pillars of a fulfilled life: Happy, Healthy, Wise, and Wealthy.]]></title>
+            <description><![CDATA[<article><h1>The Four pillars of a fulfilled life: Happy, Healthy, Wise, and Wealthy.</h1><p>The Four pillars of a fulfilled life: Happy, Healthy, Wise, and Wealthy. Being happy I prioritize being happy above all else. Being happy can be dependent upon being healthy and wise. It is a rare occurrence that I would sacrifice wisdom or health in the name of being happy.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d6c7b03a5271e747e3dfa94fdf99516c/croprotate.jpeg?cropheight=1197&cropwidth=2000&degrees=0&input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F2000%2F1*isia3nhly_Zo6U20jq6d2Q.jpeg&x=0&y=0"></article>]]></description>
+            <link>https://medium.com/@mikenseer/the-four-pillars-of-a-fulfilled-life-happy-healthy-wise-and-wealthy-a6ec27aac3d7?source=linkShare-20acdf286b78-1469061586</link>
+            <guid isPermaLink="false">87208586-312a-42c3-b411-9d18b8f44a9c</guid>
+            <pubDate>Thu, 21 Jul 2016 00:41:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Expand your lungs: More energy and reduced stress - Mobius Nutrition]]></title>
             <description><![CDATA[<article><h1>Expand your lungs: More energy and reduced stress - Mobius Nutrition</h1><p>Expand your lungs: More energy and reduced stress Deep breathing techniques have become a popular way to deal with our constantly connected always online world. With small stresses berating our attention throughout the day, being able to pause for a deep breath or two has been shown to have great benefits mentally and physically.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fb6d35484f5d0db6b94e52220b85069f/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F2000%2F1*R4EfNAcgLc_70owC7LrIJg.jpeg"></article>]]></description>
